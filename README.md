@@ -11,33 +11,38 @@ folder "Machine Learning x", it means x is an updated model, so the higher the x
 
 
 # Step by step to Create Machine Learning model with own custom datasets
+
 1. Get and preparation resource
-  a. Install Tensorflow 2.x and other library and also install text editor
+    
+    a. Install Tensorflow 2.x and other library and also install text editor
   
-  b. Collecting Datasets by direct photo and web scraping
+    b. Collecting Datasets by direct photo and web scraping
   
-  c. Do Pre-Processing Data by grouping image per class or labelling image per class
+    c. Do Pre-Processing Data by grouping image per class or labelling image per class
   
-  d. Split data 80% for training and 20% for validation
+    d. Split data 80% for training and 20% for validation
+
 
 2. Create Machine Learning model
-  a. import library like tensorflow, matplotlib, panda and other
   
-  b. Load own custom datasets to model
+    a. import library like tensorflow, matplotlib, panda and other
   
-  c. Do image Augmentation to own Datasets
+    b. Load own custom datasets to model
   
-  d. Use Transfer Learning by call pre-trained model such as VGG16, MobileNetV2, or ResNet50.
+    c. Do image Augmentation to own Datasets
   
-  e. Add own custom layer, do Fine tuning and hyper parameter tuning to pre-trained model
+    d. Use Transfer Learning by call pre-trained model such as VGG16, MobileNetV2, or ResNet50.
   
-  f. Training model
+    e. Add own custom layer, do Fine tuning and hyper parameter tuning to pre-trained model
   
-  g. Evaluating model
+    f. Training model
   
-  h. Save model to saved_model format
+    g. Evaluating model
   
-  i. Convert saved_model to .tflite
+    h. Save model to saved_model format
+  
+    i. Convert saved_model to .tflite
+  
   
 3. How to use machine learning model to android
    a. Setup dependencies and camera permission
