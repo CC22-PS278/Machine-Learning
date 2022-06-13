@@ -4,10 +4,10 @@ This repository contains the dataset, and machine learning model that we used in
 
 folder "Machine Learning x", it means x is an updated model, so the higher the x value means more updated the model.
 
-- Our Clean Datasets is available in [here](https://drive.google.com/drive/folders/1E4H6tzgbpKknkgZYZ9btxPq6oyMTuYzC?usp=sharing)
-- Our final machine learning model available in here
-- Our final converted ML model in .tflite available in here
-- Our test predict app available in here
+- Our Clean Datasets is available in [here](https://drive.google.com/drive/folders/18yLu51tDeUBlx63QTdnAiIhY1kk4SBXn?usp=sharing)
+- Our final machine learning model available in [here](https://github.com/CC22-PS278/Machine-Learning/blob/main/Machine%20Learning%204/Final-Model.ipynb)
+- Our final converted ML model in .tflite available in [here](https://drive.google.com/file/d/1cSZUW7Rg1fnSmnq6EDxET4Y3qfcM9lqT/view?usp=sharing)
+- Our test predict app available in [here](https://github.com/CC22-PS278/Android_Test-App/tree/main/Machine%20Learning%20Test%20App)
 
 
 # Step by step to Create Machine Learning model with own custom datasets
